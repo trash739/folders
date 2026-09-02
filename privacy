@@ -1,1 +1,1 @@
-test
+Application stores its folders structure, settings, backups, and app catalog data locally on this device. The application uses only the built-in database in offline mode during the automatic cataloging of the installed applications. The application has only limited access to a single user-selected folder on the smartphone (for storing XML backups). The application does not collect personal data, does not create user accounts, and does not send analytics or tracking data anywhere.
