@@ -1,4 +1,7 @@
-Application stores its folders structure, settings, backups, and app catalog data locally on this device. 
-The application uses only the built-in database in offline mode during the automatic cataloging of the installed applications. 
-The application has only limited access to a single user-selected folder on the smartphone (for storing XML backups). 
-The application does not collect personal data, does not create user accounts, and does not send analytics or tracking data anywhere.
+Chinese
+
+Nested Folders (by igoivo) 会将文件夹、设置、备份和应用目录数据本地存储在此设备上。在自动编目已安装应用时，本应用仅以离线模式使用内置数据库。本应用仅对智能手机上一个由用户选择的文件夹具有有限访问权限（用于存储 XML 备份）。本应用不收集个人数据，不创建用户账户，也不会向任何地方发送分析或跟踪数据。本应用无广告，不会向用户显示任何广告。
+
+English
+
+Nested Folders (by igoivo) stores its folders, settings, backups, and app catalog data locally on this device. The application uses only the built-in database in offline mode during the automatic cataloging of the installed applications. The application has only limited access to a single user-selected folder on the smartphone (for storing XML backups). The application does not collect personal data, does not create user accounts, and does not send analytics or tracking data anywhere. The Application is ad-free and does not display any advertisements to its users.
