@@ -1,0 +1,378 @@
+{
+  "GAME": {
+    "id": 0,
+    "constant": "ApplicationInfo.CATEGORY_GAME",
+    "folder_names": {
+      "en": "Game",
+      "ru": "Игры",
+      "sv": "Spel",
+      "zh": "游戏"
+    },
+    "google_play_categories": [
+      "Action",
+      "Adventure",
+      "Arcade",
+      "Board",
+      "Card",
+      "Casino",
+      "Casual",
+      "Educational",
+      "Music",
+      "Puzzle",
+      "Racing",
+      "Role Playing",
+      "Simulation",
+      "Sports (Games)",
+      "Strategy",
+      "Trivia",
+      "Word"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Action": "Экшен",
+        "Adventure": "Приключения",
+        "Arcade": "Аркады",
+        "Board": "Настольные",
+        "Card": "Карточные",
+        "Casino": "Казино",
+        "Casual": "Казуальные",
+        "Educational": "Обучающие",
+        "Music": "Музыкальные",
+        "Puzzle": "Головоломки",
+        "Racing": "Гонки",
+        "Role Playing": "Ролевые",
+        "Simulation": "Симуляторы",
+        "Sports (Games)": "Спорт",
+        "Strategy": "Стратегии",
+        "Trivia": "Викторины",
+        "Word": "Слова"
+      },
+      "sv": {
+        "Action": "Action",
+        "Adventure": "Äventyr",
+        "Arcade": "Arkad",
+        "Board": "Brädspel",
+        "Card": "Kortspel",
+        "Casino": "Kasino",
+        "Casual": "Casual",
+        "Educational": "Utbildning",
+        "Music": "Musik",
+        "Puzzle": "Pussel",
+        "Racing": "Racing",
+        "Role Playing": "Rollspel",
+        "Simulation": "Simulering",
+        "Sports (Games)": "Sport",
+        "Strategy": "Strategi",
+        "Trivia": "Frågesport",
+        "Word": "Ord"
+      },
+      "zh": {
+        "Action": "动作",
+        "Adventure": "冒险",
+        "Arcade": "街机",
+        "Board": "棋盘",
+        "Card": "卡牌",
+        "Casino": "赌场",
+        "Casual": "休闲",
+        "Educational": "教育",
+        "Music": "音乐",
+        "Puzzle": "益智",
+        "Racing": "竞速",
+        "Role Playing": "角色扮演",
+        "Simulation": "模拟",
+        "Sports (Games)": "体育",
+        "Strategy": "策略",
+        "Trivia": "问答",
+        "Word": "文字"
+      }
+    }
+  },
+  "ACCESSIBILITY": {
+    "id": 1,
+    "constant": "ApplicationInfo.CATEGORY_ACCESSIBILITY",
+    "folder_names": {
+      "en": "Accessibility",
+      "ru": "Специальные возможности",
+      "sv": "Tillgänglighet",
+      "zh": "无障碍"
+    },
+    "google_play_categories": [
+      "Text-to-Speech"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Text-to-Speech": "Синтез речи"
+      },
+      "sv": {
+        "Text-to-Speech": "Text till tal"
+      },
+      "zh": {
+        "Text-to-Speech": "文字转语音"
+      }
+    }
+  },
+  "AUDIO": {
+    "id": 2,
+    "constant": "ApplicationInfo.CATEGORY_AUDIO",
+    "folder_names": {
+      "en": "Audio",
+      "ru": "Аудио",
+      "sv": "Ljud",
+      "zh": "音频"
+    },
+    "google_play_categories": [
+      "Music & Audio"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Music & Audio": "Музыка и аудио"
+      },
+      "sv": {
+        "Music & Audio": "Musik och ljud"
+      },
+      "zh": {
+        "Music & Audio": "音乐与音频"
+      }
+    }
+  },
+  "VIDEO": {
+    "id": 3,
+    "constant": "ApplicationInfo.CATEGORY_VIDEO",
+    "folder_names": {
+      "en": "Video",
+      "ru": "Видео",
+      "sv": "Video",
+      "zh": "视频"
+    },
+    "google_play_categories": [
+      "Entertainment",
+      "Video Players & Editors"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Entertainment": "Развлечения",
+        "Video Players & Editors": "Видеоплееры и редакторы"
+      },
+      "sv": {
+        "Entertainment": "Underhållning",
+        "Video Players & Editors": "Videospelare och redigerare"
+      },
+      "zh": {
+        "Entertainment": "娱乐",
+        "Video Players & Editors": "视频播放器与编辑器"
+      }
+    }
+  },
+  "IMAGE": {
+    "id": 4,
+    "constant": "ApplicationInfo.CATEGORY_IMAGE",
+    "folder_names": {
+      "en": "Image",
+      "ru": "Изображения",
+      "sv": "Bilder",
+      "zh": "图像"
+    },
+    "google_play_categories": [
+      "Art & Design",
+      "Beauty",
+      "Comics",
+      "Dating",
+      "Photography"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Art & Design": "Искусство и дизайн",
+        "Beauty": "Красота",
+        "Comics": "Комиксы",
+        "Dating": "Знакомства",
+        "Photography": "Фотография"
+      },
+      "sv": {
+        "Art & Design": "Konst och design",
+        "Beauty": "Skönhet",
+        "Comics": "Serier",
+        "Dating": "Dejting",
+        "Photography": "Fotografi"
+      },
+      "zh": {
+        "Art & Design": "艺术与设计",
+        "Beauty": "美容",
+        "Comics": "漫画",
+        "Dating": "约会",
+        "Photography": "摄影"
+      }
+    }
+  },
+  "SOCIAL": {
+    "id": 5,
+    "constant": "ApplicationInfo.CATEGORY_SOCIAL",
+    "folder_names": {
+      "en": "Social",
+      "ru": "Социальные",
+      "sv": "Socialt",
+      "zh": "社交"
+    },
+    "google_play_categories": [
+      "Communication",
+      "Social"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Communication": "Связь",
+        "Social": "Социальные"
+      },
+      "sv": {
+        "Communication": "Kommunikation",
+        "Social": "Socialt"
+      },
+      "zh": {
+        "Communication": "通讯",
+        "Social": "社交"
+      }
+    }
+  },
+  "NEWS": {
+    "id": 6,
+    "constant": "ApplicationInfo.CATEGORY_NEWS",
+    "folder_names": {
+      "en": "News",
+      "ru": "Новости",
+      "sv": "Nyheter",
+      "zh": "新闻"
+    },
+    "google_play_categories": [
+      "Books & Reference",
+      "News & Magazines",
+      "Sports (Apps)",
+      "Weather"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Books & Reference": "Книги и справочники",
+        "News & Magazines": "Новости и журналы",
+        "Sports (Apps)": "Спорт",
+        "Weather": "Погода"
+      },
+      "sv": {
+        "Books & Reference": "Böcker och referens",
+        "News & Magazines": "Nyheter och tidskrifter",
+        "Sports (Apps)": "Sport",
+        "Weather": "Väder"
+      },
+      "zh": {
+        "Books & Reference": "图书与参考",
+        "News & Magazines": "新闻与杂志",
+        "Sports (Apps)": "体育",
+        "Weather": "天气"
+      }
+    }
+  },
+  "MAPS": {
+    "id": 7,
+    "constant": "ApplicationInfo.CATEGORY_MAPS",
+    "folder_names": {
+      "en": "Maps",
+      "ru": "Карты",
+      "sv": "Kartor",
+      "zh": "地图"
+    },
+    "google_play_categories": [
+      "Auto & Vehicles",
+      "Maps & Navigation",
+      "Travel & Local"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Auto & Vehicles": "Авто и транспорт",
+        "Maps & Navigation": "Карты и навигация",
+        "Travel & Local": "Путешествия"
+      },
+      "sv": {
+        "Auto & Vehicles": "Fordon",
+        "Maps & Navigation": "Kartor och navigering",
+        "Travel & Local": "Resor och lokalt"
+      },
+      "zh": {
+        "Auto & Vehicles": "汽车与交通",
+        "Maps & Navigation": "地图与导航",
+        "Travel & Local": "旅游与本地"
+      }
+    }
+  },
+  "PRODUCTIVITY": {
+    "id": 8,
+    "constant": "ApplicationInfo.CATEGORY_PRODUCTIVITY",
+    "folder_names": {
+      "en": "Productivity",
+      "ru": "Продуктивность",
+      "sv": "Produktivitet",
+      "zh": "效率"
+    },
+    "google_play_categories": [
+      "Business",
+      "Education",
+      "Finance",
+      "Food & Drink",
+      "Health & Fitness",
+      "House & Home",
+      "Libraries & Demo",
+      "Lifestyle",
+      "Medical",
+      "Parenting",
+      "Personalization",
+      "Productivity",
+      "Shopping",
+      "Tools"
+    ],
+    "google_play_category_names": {
+      "ru": {
+        "Business": "Бизнес",
+        "Education": "Образование",
+        "Finance": "Финансы",
+        "Food & Drink": "Еда и напитки",
+        "Health & Fitness": "Здоровье и фитнес",
+        "House & Home": "Дом",
+        "Libraries & Demo": "Библиотеки и демо",
+        "Lifestyle": "Стиль жизни",
+        "Medical": "Медицина",
+        "Parenting": "Родительство",
+        "Personalization": "Персонализация",
+        "Productivity": "Продуктивность",
+        "Shopping": "Покупки",
+        "Tools": "Инструменты"
+      },
+      "sv": {
+        "Business": "Företag",
+        "Education": "Utbildning",
+        "Finance": "Ekonomi",
+        "Food & Drink": "Mat och dryck",
+        "Health & Fitness": "Hälsa och träning",
+        "House & Home": "Hem",
+        "Libraries & Demo": "Bibliotek och demo",
+        "Lifestyle": "Livsstil",
+        "Medical": "Medicin",
+        "Parenting": "Föräldraskap",
+        "Personalization": "Anpassning",
+        "Productivity": "Produktivitet",
+        "Shopping": "Shopping",
+        "Tools": "Verktyg"
+      },
+      "zh": {
+        "Business": "商务",
+        "Education": "教育",
+        "Finance": "财务",
+        "Food & Drink": "餐饮",
+        "Health & Fitness": "健康与健身",
+        "House & Home": "家居",
+        "Libraries & Demo": "库与演示",
+        "Lifestyle": "生活方式",
+        "Medical": "医疗",
+        "Parenting": "育儿",
+        "Personalization": "个性化",
+        "Productivity": "效率",
+        "Shopping": "购物",
+        "Tools": "工具"
+      }
+    }
+  }
+}
