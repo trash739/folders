@@ -1,123 +1,127 @@
 Chinese
 
-Nested Folders 隐私政策
+个人信息保护及个人数据主体权利
 
 应用名称：Nested Folders
 开发者名称：igoivo
+分发渠道：华为应用市场 AppGallery
 最近更新日期：2026年9月8日
 
-1. 适用范围
+1. 个人信息收集
 
-本隐私政策说明用户安装和使用 Nested Folders (by igoivo) 时，本应用如何处理数据。
+Nested Folders 不会为开发者收集个人信息，不创建用户账户，也不会将个人信息发送给开发者或任何外部服务器。
 
-2. 本应用处理的数据
+本应用仅读取用户设备上可启动应用的列表，用于提供核心本地功能：显示已安装应用，并将应用整理到文件夹和子文件夹中。已安装应用列表仅在用户手机本地处理。
 
-本应用不会为开发者收集个人数据，不创建用户账户，也不会将个人数据、分析数据、跟踪数据、文件夹、设置、备份或应用目录数据发送给开发者或任何外部服务器。
+2. 必要范围
 
-本应用可能会读取用户设备上可启动应用的列表。读取该列表仅用于向用户显示已安装应用，并在本地对应用进行自动编目和整理。已安装应用列表仅在用户手机本地处理，不会传输到设备之外。
+本应用遵循数据最小化原则。处理范围仅限于本地应用图标整理所必需的数据：
 
-本应用会在用户设备本地存储文件夹、子文件夹、用户设置、应用与文件夹的分配关系、显示缓存数据以及 XML 备份文件。XML 备份文件仅存储在用户选择的文件夹中。
+- 已安装应用的名称以及包名或组件标识符；
+- 用户创建的文件夹和子文件夹名称；
+- 用户选择或设备本地生成的应用与文件夹分配关系；
+- 本地设置和本地显示缓存；
+- 用户在所选文件夹中创建或导入的 XML 备份文件。
 
-3. 处理个人信息的目的、方式和范围
+本应用不会收集联系人、短信、通话记录、照片、精确位置、麦克风数据、摄像头数据、账户数据、支付数据、健康数据、生物识别数据、浏览记录、搜索记录或广告标识符。
 
-处理目的：将已安装应用图标整理到文件夹和子文件夹中，恢复用户的文件夹布局，并创建或导入本地 XML 备份。
+3. 个人信息使用
 
-处理方式：数据由本应用在设备本地处理。本应用会将已安装应用与内置的离线应用目录数据库进行匹配。本应用不会进行在线编目、远程画像、云同步、广告分析或跟踪。
+本地处理的已安装应用列表仅用于在本地对应用进行编目、整理、恢复和显示用户的应用文件夹布局。本应用不会将其用于用户画像、广告、营销、定向推送、精准推荐、信用评估、风险评分或任何无关目的。
 
-处理范围：处理范围限于应用名称、应用包名或组件标识符、用户创建的文件夹名称、用户设置、应用与文件夹的分配关系，以及用户选择或创建的备份文件。
+4. 定向推送和精准广告
 
-4. 权限和本地存储访问
+本应用不提供定向推送、精准广告、个性化营销、广告推荐或基于分析的推荐。因此，本应用不会将个人信息用于此类功能，也不设置定向推送个性化选项。
 
-本应用仅对用户选择的备份文件夹具有有限访问权限，用于存储或读取 XML 备份文件。本应用不会访问用户的照片、联系人、短信、通话记录、精确位置、麦克风、摄像头或账户数据。
+5. 权限和访问行为
 
-5. 共享、转让和公开披露
+本应用不请求网络访问权限，也不会上传用户数据。本应用不请求联系人、短信、通话记录、位置、麦克风、摄像头、电话状态或账户访问等敏感权限。
 
-本应用不会共享、转让、出售、公开披露或上传用户数据。本应用不包含广告、分析、跟踪或第三方数据收集服务。
+本应用仅对用户选择的备份文件夹具有有限访问权限，并且仅用于创建或读取 XML 备份文件。用户可以通过清除应用数据、删除备份文件、在可用情况下管理系统权限或卸载本应用，停止此类本地访问。
 
-6. 信息存储地点和期限
+6. 自启动和关联启动
 
-所有应用数据均存储在用户设备本地。相关数据会保留在设备上，直至用户删除数据、删除备份文件、在 Android 系统设置中清除应用数据，或卸载本应用。
+本应用不会为了收集数据而自动启动其他应用。当用户选择打开已安装应用或应用市场页面时，该行为由用户主动触发，属于正常应用导航。
 
-7. 个人信息主体权利
+7. 共享、转让和第三方处理
 
-由于开发者不会在任何服务器上接收或存储用户个人数据，开发者无法远程访问、更正、复制、导出、限制处理或删除此类数据。用户可直接在设备上控制本地数据。
+本应用不会共享、转让、出售、披露或上传用户数据。本应用不包含广告 SDK、分析 SDK、跟踪 SDK 或第三方个人数据收集服务。
 
-如果适用法律将本地处理的已安装应用列表视为个人数据，用户可通过管理应用权限、删除本地备份文件、在 Android 系统设置中清除应用数据或卸载本应用，在本地行使相关权利。
+8. 个人数据主体权利
 
-8. 撤回同意
+由于开发者不会在任何服务器上接收或存储用户个人信息，开发者无法远程访问、更正、复制、导出、限制处理或删除此类数据。用户可直接在设备上控制本地数据。
 
-用户可以随时停止使用本应用。用户可以通过 Android 系统设置或清除应用数据撤回对所选备份文件夹的本地访问。用户也可以删除本地备份文件或卸载本应用。
+用户可通过删除本地备份文件、在 Android 系统设置中清除应用数据、在可用情况下管理权限或卸载本应用，行使与本地数据相关的权利。
 
-9. 未成年人
+如果适用法律将本地处理的已安装应用列表视为个人信息，由于该列表不会传输到用户手机之外，相关权利仍由用户在本地行使。
 
-本应用并非面向儿童或未成年人，且不会故意收集儿童或未成年人的个人数据。
+9. 开发者信息
 
-10. 本政策的变更
+应用名称：Nested Folders
+开发者名称：igoivo
 
-如果本应用的数据处理方式发生变化，本隐私政策将相应更新，以确保其与应用的实际行为保持一致。
-
-11. 联系方式
-
-如有隐私相关问题，用户可通过本应用在 AppGallery 商店页面提供的联系方式联系开发者。
+本说明中使用的应用名称和开发者名称应与 AppGallery 商店页面以及在 AppGallery Connect 中提交的隐私政策 URL 保持一致。
 
 English
 
-Privacy Policy for Nested Folders
+Personal Information Protection and Rights of the Personal Data Subject
 
 App name: Nested Folders
 Developer name: igoivo
+Distribution channel: Huawei AppGallery
 Last updated: September 8, 2026
 
-1. Scope
+1. Personal information collection
 
-This Privacy Policy explains how Nested Folders (by igoivo) handles data when the user installs and uses the application.
+Nested Folders does not collect personal information for the developer, does not create user accounts, and does not send personal information to the developer or to any external server.
 
-2. Data processed by the application
+The application reads the list of installed applications with app icons on the user's device only to provide its core local function: displaying installed applications and organizing them into folders and subfolders. This installed-application list is processed locally on the user's phone only.
 
-The application does not collect personal data for the developer, does not create user accounts, and does not send personal data, analytics, tracking data, folders, settings, backups, or app catalog data to the developer or to any external server.
+2. Necessary scope
 
-The application may read the list of launcher applications installed on the user's device. This is used only to show installed applications to the user and to automatically catalog and organize them into folders. The installed-application list is processed locally on the user's phone only and is not transferred outside the device.
+The application follows the data minimization principle. The scope is limited to data needed for local app-icon organization:
 
-The application stores folders, subfolders, user settings, app-folder assignments, cached display data, and XML backup files locally on the user's device. XML backups are stored only in a folder selected by the user.
+- installed application names and package/component identifiers;
+- folder and subfolder names created by the user;
+- app-to-folder assignments selected or generated on the device;
+- local settings and local display cache;
+- XML backup files created or imported by the user in a user-selected folder.
 
-3. Purpose, method, and scope of processing
+The application does not collect contacts, SMS, call records, photos, precise location, microphone data, camera data, account data, payment data, health data, biometric data, browsing records, search records, or advertising identifiers.
 
-Purpose: to organize installed application icons into folders and subfolders, restore the user's folder layout, and create or import local XML backups.
+3. Use of personal information
 
-Method: data is processed by the application locally on the device. The application compares installed applications with its built-in offline app catalog database. No online cataloging, remote profiling, cloud synchronization, advertising analytics, or tracking is performed.
+The locally processed installed-application list is used only for local cataloging, organizing, restoring, and displaying the user's app-folder layout. It is not used for profiling, advertising, marketing, targeted push notifications, precision recommendations, credit evaluation, risk scoring, or any unrelated purpose.
 
-Scope: the processing is limited to application names, application package/component identifiers, folder names created by the user, user settings, app-folder assignments, and backup files selected or created by the user.
+4. Targeted push notifications and precision advertising
 
-4. Permissions and local storage access
+The application does not provide targeted push notifications, precision advertising, personalized marketing, advertising recommendations, or analytics-based recommendations. Therefore, the application does not use personal information for such functions and does not include an option for targeted-push personalization.
 
-The application has limited access only to the backup folder selected by the user for storing or reading XML backup files. The application does not access the user's photos, contacts, SMS, call records, precise location, microphone, camera, or account data.
+5. Permissions and access behavior
 
-5. Sharing, transfer, and disclosure
+The application does not request network access and does not upload user data. It does not request broad sensitive permissions such as contacts, SMS, call log, location, microphone, camera, phone state, or account access.
 
-The application does not share, transfer, sell, publicly disclose, or upload user data. The application does not include advertising, analytics, tracking, or third-party data collection services.
+The application has limited access only to a backup folder selected by the user, and only for creating or reading XML backup files. The user can stop this local access by clearing application data, deleting backup files, changing system permissions where available, or uninstalling the application.
 
-6. Storage location and retention period
+6. Automatic launch and secondary launch
 
-All application data is stored locally on the user's device. The data remains on the device until the user deletes it, deletes backup files, clears the application data in Android system settings, or uninstalls the application.
+The application does not automatically launch other applications for data collection. When the user chooses to open an installed application or a market page, that action is initiated by the user and is part of normal app navigation.
 
-7. Rights of the personal data subject
+7. Sharing, transfer, and third-party processing
 
-Because the developer does not receive or store the user's personal data on any server, the developer cannot remotely access, correct, copy, export, restrict, or delete such data. The user controls the local data directly on the device.
+The application does not share, transfer, sell, disclose, or upload user data. It does not include advertising SDKs, analytics SDKs, tracking SDKs, or third-party personal-data collection services.
 
-If applicable law treats the locally processed installed-application list as personal data, the user may exercise the relevant rights locally by managing application permissions, deleting local backup files, clearing application data in Android system settings, or uninstalling the application.
+8. Rights of the personal data subject
 
-8. Withdrawal of consent
+Because the developer does not receive or store user personal information on any server, the developer cannot remotely access, correct, copy, export, restrict, or delete such data. The user controls the local data directly on the device.
 
-The user may stop using the application at any time. The user may withdraw local access to the selected backup folder through Android system settings or by clearing the application data. The user may also delete local backup files or uninstall the application.
+The user may exercise rights related to local data by deleting local backup files, clearing application data in Android system settings, managing permissions where available, or uninstalling the application.
 
-9. Children
+If applicable law treats the locally processed installed-application list as personal information, these rights are still exercised locally because the list is not transferred outside the user's phone.
 
-The application is not directed at children and does not knowingly collect children's personal data.
+9. Developer information
 
-10. Changes to this policy
+App name: Nested Folders
+Developer name: igoivo
 
-If the application's data processing changes, this Privacy Policy will be updated so that it remains consistent with the actual application behavior.
-
-11. Contact
-
-For privacy questions, the user may contact the developer through the contact method provided on the AppGallery store listing for this application.
+The app name and developer name used in this statement must remain consistent with the AppGallery listing and the privacy policy URL submitted in AppGallery Connect.
